@@ -1,6 +1,6 @@
 # Kisah Islam: Cahaya Abadi - Kisah Nabi Muhammad dan Sejarah Peradaban
 
-![Screenshot Halaman Utama Proyek dengan Judul Cahaya Abadi](Hasil%20Web/%7B8221559D-7787-4F15-A630-710F020E18D1%7D.jpg)
+![Screenshot Halaman Utama Proyek dengan Judul Cahaya Abadi]({8221559D-7787-4F15-A630-710F020E18D1}.png)
 
 ## 🌟 Tentang Proyek
 
